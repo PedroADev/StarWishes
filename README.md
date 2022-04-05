@@ -56,7 +56,9 @@ Depois de passar pela tela inicial, a primeira fase do jogo é iniciada. A pontu
 As personagens principais são Luna, Stella e Saturno, integrantes das Star Wishes. Em cada fase o jogador controlará uma delas. 
 
 Além dos monstros que variam de acordo com as fases, Safira é a personagem vilã do jogo.
+
 ![monster_eye](https://user-images.githubusercontent.com/89281859/161837682-f6d123d2-4e90-4bc2-b29b-420734a70d9f.gif)
+
 ![monster_squid](https://user-images.githubusercontent.com/89281859/161837715-eb7e9715-19b2-45be-9efd-c776c4fc2ac5.GIF)
 
 O jogador poderá controlar a nave utilizando as teclas [W] [A] [S] [D] do teclado e utilizar o [BOTÃO ESQUERDO] do mouse para disparar.
