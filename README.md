@@ -54,7 +54,7 @@ A Gameplay do jogo se dá através do controle da nave espacial por parte do jog
 Depois de passar pela tela inicial, a primeira fase do jogo é iniciada. A pontuação começa a ser contada e inimigos começam a surgir. O jogo vai se tornando mais desafiador na medida em que progride na fase. Cada fase terá um nível mais elevado de dificuldade, como inimigos mais poderosos e em maior número surgindo. No final de cada fase o jogador vai se deparar com um Chefe, que deve ser derrotado para continuar a progressão. Caso o jogador seja eliminado, a fase atual é reiniciada e a pontuação zerada.
 
 ### Personagens e Controles
-As personagens principais são Luna, Stella e Saturno, integrantes das Star Wishes. Em cada fase o jogador controlará uma delas.
+As personagens principais são Luna, Stella e Saturno, integrantes das Star Wishes. Em cada fase o jogador controlará uma delas. Elas poderão ser vistas nas Cenas de Corte e durante as caixas de diálogo do jogo.
 
 Além dos monstros que variam de acordo com as fases, Safira é a personagem vilã do jogo.
 
