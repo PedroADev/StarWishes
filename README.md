@@ -70,6 +70,9 @@ O principal conceito de Gameplay vai ser o espaço e suas ameaças; monstros est
 ### Mundo do Jogo
 O jogo é ambientado no espaço, representado por cores vibrantes e onde diversas ameaças podem ser encontradas a todo tempo. Safira está destruindo planetas, acabando com toda sua vegetação e outras formas de vida. Por isso, as Star Wishes viajam por galáxias nunca vistas antes para acabar com o reinado de Safira.
 
+![fundo-Recovered](https://user-images.githubusercontent.com/89281859/161890390-826d4b56-50a4-4f23-8c1c-1a37176750d2.jpeg)
+(Background da Primeira Fase)
+
 ### Interface
 Na tela inicial o jogador terá as opções de iniciar o jogo ou acessar as configurações. Durante a Gameplay, um botão de pausa estará visível. Também é possível ver a pontuação atual do jogador no canto superior esquerdo da tela durante o jogo.
 
