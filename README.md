@@ -30,28 +30,7 @@ Star Wishes tem como público-alvo crianças entre 10 e 12 anos. Sua classifica�
 Star Wishes atualmente está sendo desenvolvido por uma equipe de três integrantes; Um artista visual, um Game Designer e um programador.
 
 ### Cronograma e orçamento
-Star Wishes está planejado para ser finalizado em Junho de 2022. O jogo atualmente não possui nenhum orçamento.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Star Wishes está planejado para ser finalizado em Junho de 2022. O jogo atualmente não possui nenhum orçamento
 
 
 # Game Design Document
