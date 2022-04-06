@@ -33,6 +33,9 @@ Star Wishes atualmente está sendo desenvolvido por uma equipe de três integran
 Star Wishes está planejado para ser finalizado em Junho de 2022. O jogo atualmente não possui nenhum orçamento.
 
 
+
+
+
 # Game Design Document
 
 ## Star Wishes
