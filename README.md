@@ -91,7 +91,7 @@ Power-Ups podem acabar aparecendo durante o jogo. Eles fazem com que o jogador p
 Os inimigos mais comuns são os monstros, que variam de acordo com as fases. Cada fase terá três tipos de monstros diferentes e um Boss no final, sendo Safira o último deles.
 
 ### Cenas de corte, Materiais de bônus e concorrência
-As cenas de corte se darão por imagens estáticas que contam a história do jogo. Também estarão presentes caixas de diálogos entre as personagens durante o jogo. Como diferencial, Star Wishes têm uma tabela de cores diversificada, buscando estimular a mente de nosso público alvo (crianças).
+As cenas de corte se darão por imagens estáticas que contam a história do jogo. Também estarão presentes caixas de diálogos entre as personagens durante o jogo. Como diferencial em relação a concorrência, Star Wishes têm uma tabela de cores diversificada, buscando estimular a mente de nosso público alvo (crianças).
 
 
 
